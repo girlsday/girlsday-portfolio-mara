@@ -26,3 +26,6 @@ Du kannst deine √§nderungen direkt im Browser auf diesem Rechner anschauen. Daf√
 
 - `yarn dev` - Startet den lokalen server zu anzeige der website
 
+## Beispiel anwendung
+
+- [girlsday-portfolio-blueprint](https://fotopixel.github.io/girlsday-portfolio-blueprint/)
