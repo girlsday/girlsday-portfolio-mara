@@ -18,3 +18,9 @@ Wer weiß, mit etwas Glück werden die Professorinnen und Professoren der Neverm
 Und keine Sorge unser Team von Experten wird dich durch den Prozess der Entwicklung deiner persönlichen Seite begleiten und dir mit Tips und Tricks zur Seite stehen!
 
 Also dann, nochmal herzlich Willkommen bei BITGRIP. Wir können kaum erwarten zu sehen, was du erschaffen wirst!
+
+
+## Verwendung
+
+- `yarn dev` - Startet den lokalen server zu anzeige der website
+
