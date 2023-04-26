@@ -15,7 +15,6 @@ Diese Seite wird deine Chance sein, deine einzigartige Persönlichkeit, Interess
 Stell es dir vor wie eine digitale Version von dir selbst, auf der du teilen kannst, was du liebst, was du hasst und alles andere, was du der Welt mitteilen möchtest. 
 Wer weiß, mit etwas Glück werden die Professorinnen und Professoren der Nevermore Academy so beeindruckt sein, dass auch du schon bald eine Schülerin sein könntest!
 
- 
 Und keine Sorge unser Team von Experten wird dich durch den Prozess der Entwicklung deiner persönlichen Seite begleiten und dir mit Tips und Tricks zur Seite stehen!
 
 Also dann, nochmal herzlich Willkommen bei BITGRIP. Wir können kaum erwarten zu sehen, was du erschaffen wirst!
