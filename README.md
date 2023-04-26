@@ -22,5 +22,7 @@ Also dann, nochmal herzlich Willkommen bei BITGRIP. Wir können kaum erwarten zu
 
 ## Verwendung
 
+Du kannst deine änderungen direkt im Browser auf diesem Rechner anschauen. Dafür musst du nur im Terminal in diesem Ordner sein und den befehlt `yarn dev` ausführen.
+
 - `yarn dev` - Startet den lokalen server zu anzeige der website
 
